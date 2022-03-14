@@ -1,1 +1,3 @@
-# scm
+# Gerenciamento de código fonte
+
+## Atividade prática
